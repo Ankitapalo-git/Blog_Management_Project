@@ -1,0 +1,6 @@
+[submodule "Blog_Management_Backend"]
+	path = Blog_Management_Backend
+	url = https://github.com/Ankitapalo-git/Blog_Management_Backend.git
+[submodule "Blog_Management_Frontend"]
+	path = Blog_Management_Frontend
+	url = https://github.com/Ankitapalo-git/Blog_Management_Frontend.git
